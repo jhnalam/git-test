@@ -1,0 +1,3 @@
+hello akash 
+its about git
+git bash

@@ -2,3 +2,5 @@ hello global
 Its about git
 lets try
 hello akash
+hello its about git 
+git bash
